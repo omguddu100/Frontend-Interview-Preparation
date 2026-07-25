@@ -1,55 +1,106 @@
-# 🚀 Senior UI Developer — Self Introduction & Interview Strategy
+# 🚀 Senior Front-End Developer — Self Introduction & Resume Overview
 
 > **Name:** Guddu Kumar  
-> **Role:** Senior UI Developer / Senior Frontend Engineer  
-> **Specialization:** Angular, TypeScript, JavaScript (ES6+), RxJS, Web Performance, Micro Frontends & System Design  
+> **Role:** Senior Front-End Developer | Angular Specialist (v2–20+)  
+> **Experience:** 9+ Years  
+> **Location:** Bangalore, India  
+> **Email:** [omguddu100@gmail.com](mailto:omguddu100@gmail.com) | **Phone:** +91 9738626261  
+> **LinkedIn:** [linkedin.com/in/guddu-kumar-a26a3210b](https://linkedin.com/in/guddu-kumar-a26a3210b)  
+> **Portfolio:** [guddu-kumar100.web.app](https://guddu-kumar100.web.app)  
 > **Repository:** [Frontend-Interview-Preparation](https://github.com/omguddu100/Frontend-Interview-Preparation.git)  
 > **Last Updated:** 2026-07-26
 
 ---
 
-## 👨‍💻 Executive Summary
+## 👨‍💻 Professional Summary
 
-I am an experienced **Senior UI Developer / Senior Frontend Engineer** specializing in architecting scalable, high-performance web applications using **Angular, TypeScript, JavaScript, RxJS, and modern Web APIs**. 
+I am a **Senior Front-End Developer with 9+ years of experience** specializing in UI/UX design, single-page application (SPA) architecture, and modern front-end development with **Angular (v2 through Angular 20+)**, **TypeScript**, **JavaScript (ES6+)**, and **RxJS**.
 
-My core focus spans:
-- Building enterprise-grade single-page applications (SPAs) and **Standalone Component architectures**.
-- Fine-grained reactivity using **Angular Signals** (`signal`, `computed`, `linkedSignal`, `resource`) and state management.
-- Web performance optimizations (**Core Web Vitals**, Zoneless Change Detection, SSR/Hydration, Deferrable Views `@defer`).
-- Robust TypeScript type systems, functional programming with RxJS, and clean architecture (SOLID principles, Design Patterns, Micro Frontends).
+- **Technical Expertise**: Deep mastery of Angular ecosystem (Signals, RxJS, Micro Frontends, Standalone Components, Reactive Forms, NgRx, Performance Optimization).
+- **Leadership & Mentorship**: Proven track record of technical leadership, having trained and guided over **10 associates** in Angular best practices.
+- **Enterprise Scale**: Built and maintained shared component libraries and enterprise SPAs serving thousands of concurrent users across Fintech, Analytics, Airlines, and Hospitality domains.
+- **Modern AI Integration**: Hands-on experience integrating AI APIs, chat interfaces, prompt-driven applications, and leveraging AI tools (GitHub Copilot, Claude, Antigravity).
 
 ---
 
-## 🛠️ Technical Skill Matrix
+## 🛠️ Technology Competencies
 
-| Domain | Key Technologies & Concepts |
+| Category | Skills & Tools |
 |---|---|
-| **Core Frontend** | HTML5, CSS3, SCSS, Vanilla JavaScript (ES6+ to ES2026), TypeScript 5.x |
-| **Frameworks** | Angular 14–22 (Standalone Architecture, Signals, Reactive Forms, Router) |
-| **Reactivity & Async** | RxJS (Observables, Subjects, Higher-Order Mapping, Custom Operators, Error Strategies) |
-| **State & Architecture** | Signal State Services, NgRx / Component Store, Dependency Injection, Micro Frontends (Module Federation) |
-| **Performance** | Zoneless Change Detection, OnPush, `@defer`, `NgOptimizedImage`, Web Workers, Bundle Budgeting |
-| **Rendering** | SSR / Non-Destructive Hydration, Event Replay (`withEventReplay`), Pre-rendering |
-| **Testing** | Jasmine, Karma, Jest, Cypress, Component & Service Testing (`TestBed`, `HttpTestingController`) |
-| **Tooling & CI/CD** | Git, Vite, Webpack, npm, Nx Monorepo, Docker, GitHub Actions |
+| **Core Languages** | JavaScript (ES6+), TypeScript, HTML5, SCSS/CSS3 |
+| **Frameworks & Libraries** | Angular (v2–20+), React.js, RxJS, Angular Material, Bootstrap 5, PrimeNG, Chart.js, jQuery, AngularJS |
+| **Architecture** | Micro Frontend Architecture, Component-Based Design, Lazy Loading, Design Systems, REST API Integration, Performance Optimization |
+| **State Management** | Angular Signals, RxJS Observables, BehaviorSubjects, NgRx, Redux Toolkit, Context API |
+| **Testing & Quality** | Jest, Jasmine, Karma, TDD (Achieving 80%+ code coverage) |
+| **DevOps & Tooling** | Git, GitHub Actions, CI/CD, Webpack, Vite, Docker basics, Nx Monorepo, ESLint, Prettier |
+| **AI Workflows** | AI API Integration, Chat Interfaces, Prompt-driven Apps, AI Tools (GitHub Copilot, Claude, Antigravity) |
+
+---
+
+## 💼 Professional Experience History
+
+### 1. DigitalAPICraft Ltd. — Sr. Software Engineer
+*May 2024 – June 2026 | DAC Service Hub (Bangalore, India)*
+- Architected and implemented scalable front-end modules using **Angular 20+** and **Micro Frontend Architecture**.
+- Led UI design decisions in collaboration with Product and UX teams, standardizing a shared internal component library.
+- Built dynamic, reusable components ensuring WCAG accessibility and responsive design.
+- Implemented state management using **Angular Signals**, **RxJS**, and modular services.
+- Coordinated with backend/API teams to define integration contracts and optimize performance.
+
+### 2. Zensar Technologies Ltd. — Sr. Software Engineer
+*Oct 2021 – Mar 2024 | PHM GTOWILLOW (Bangalore, India)*
+- Developed enterprise-grade SPAs using **Angular 12–15** and **Angular Material**, serving thousands of concurrent users.
+- Built and maintained an internal shared component library for consistent UI and reusability across teams.
+- Integrated RESTful APIs and managed asynchronous data streams using RxJS Observables and Subjects.
+- Designed responsive, WCAG-compliant layouts compatible across browsers and devices.
+- Achieved **80%+ code coverage** on critical modules collaborating on unit testing with Jasmine and Karma.
+
+### 3. Cognizant — Software Engineer
+*Dec 2018 – Sep 2021 | BigDecisions Analytics Platform (Bangalore, India)*
+- Built dynamic UIs across four platform modules (Ingest, Transform, Govern, Consume) using Angular and modular SCSS.
+- Implemented JWT-based authentication, Angular Guards, Interceptors, and route protection.
+- Created reusable services and dynamic forms using **Angular Reactive Forms** with complex validation logic.
+- Engineered customizable Angular themes and modular SCSS architecture for white-label UI requirements.
+- Delivered features within CI/CD pipelines using Git, JIRA, and Agile/SCRUM workflows.
+
+### 4. Arowana Consulting Ltd. — Software Engineer
+*Aug 2017 – Dec 2018 | STMS (Jet Airways, Kenya Airways) & Houdini Guest Experience (Bangalore, India)*
+- Developed responsive user interfaces using JavaScript, AngularJS, jQuery, and Bootstrap for airline staff portals.
+- Integrated booking engine APIs and implemented Role-Based Access Control (RBAC) for multi-role user systems.
+- Contributed to a multi-tenant hospitality CMS platform for clients including Grand Millennium and Emirates Palace.
+
+### 5. ZyloTech — Software Analyst
+*Nov 2015 – Oct 2016 | Data Preparation Platform (Bangalore, India)*
+- Built scalable front-end modules using AngularJS and jQuery for data analytics and visualization dashboards.
+- Implemented dynamic dashboards and data visualization components for real-time and batch-processed data.
+- Awarded **"All Day Everyday Award"** (Aug 2016) for outstanding performance and dedication.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Information Technology**  
+  *Centurion University of Technology & Management, Paralakhemundi, Odisha*
 
 ---
 
 ## 🎯 90-Second Interview Elevator Pitch
 
-> *"Hello, I am **Guddu Kumar**, a Senior UI Developer with extensive experience in building scalable, modern web applications. My primary expertise lies in the **Angular and TypeScript ecosystem**, where I specialize in modern Standalone Architecture, Signals-based reactive state management, and high-performance Web APIs.*
+> *"Hello, I'm **Guddu Kumar**, a Senior Front-End Developer with over **9 years of experience** specializing in the **Angular ecosystem** from version 2 up to **Angular 20+**.*
 > 
-> *In my career, I've led the migration of complex legacy applications to modern Angular Standalone architectures, optimized Core Web Vitals to achieve sub-second FCP/LCP using Signals and Zoneless Change Detection, and established robust CI/CD pipelines and automated testing practices.*
+> *Throughout my career at companies like DigitalAPICraft, Zensar, and Cognizant, I have architected enterprise-scale SPAs, implemented **Micro Frontend architectures**, built shared component libraries, and drove state management using **Angular Signals and RxJS**.*
 > 
-> *I take pride in writing clean, type-safe, maintainable code following SOLID principles and design patterns. I'm excited about this opportunity to bring my technical leadership, frontend architecture expertise, and passion for engineering excellence to your team."*
+> *I take a performance-first approach to UI development — focusing on fine-grained change detection, WCAG accessibility, high unit test coverage (80%+ with Jasmine/Karma/Jest), and seamless REST API integrations. I've also mentored 10+ engineers in Angular best practices.*
+> 
+> *I'm excited to bring my technical expertise in modern Angular, frontend architecture, and team leadership to drive impact on your engineering team."*
 
 ---
 
 ## 📚 Interview Preparation Repository Blueprint
 
-This repository is organized into targeted, comprehensive interview modules:
+This repository contains my personal structured preparation guides for Senior UI interviews:
 
-- **[`00-Revision/`](./)** — Elevator pitch, self-introduction, quick revision notes.
+- **[`00-Revision/`](./)** — Self-introduction, resume summary, elevator pitch.
 - **[`01-HTML/`](../01-HTML/)** — Semantic HTML5, Accessibility (a11y/ARIA), Web Vitals, DOM APIs.
 - **[`02-CSS/`](../02-CSS/)** — Flexbox, Grid, Specificity, Animations, Responsive Design & Master Q&A.
 - **[`03-JavaScript/`](../03-JavaScript/)** — Closures, Hoisting, Prototype, Event Loop, Promises, Async/Await, Polyfills, Coding & Output Questions.
@@ -60,12 +111,4 @@ This repository is organized into targeted, comprehensive interview modules:
 
 ---
 
-## 🌟 Key Behavioral & Technical Strengths
-
-1. **Problem Solving & Coding Agility**: Proficient in algorithm implementations, data structures, custom polyfills, and design patterns (Pub/Sub, Singleton, Factory, Builder).
-2. **Architectural Vision**: Skilled in deciding trade-offs between Client-Side Rendering (CSR), Server-Side Rendering (SSR), and Static Site Generation (SSG).
-3. **Mentorship & Quality Standards**: Passionate about code reviews, linting standards, automated unit/E2E test coverage, and documentation.
-
----
-
-*Prepared for Senior Frontend Developer / Technical Lead Interviews — Guddu Kumar*
+*Prepared for Senior Front-End Developer / Lead Angular Interviews — Guddu Kumar*
